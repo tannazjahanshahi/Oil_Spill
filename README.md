@@ -16,3 +16,6 @@ Real-time monitoring
 Prevent disasters & fines
 
 Automates visual inspection
+
+dataSet:
+https://www.kaggle.com/datasets/vighneshanand/oil-spill-dataset-binary-image-classification
